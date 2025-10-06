@@ -1,0 +1,23 @@
+h1{
+    color: orangered;
+    font-size: 40px;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+.kontejner{
+    padding: 30px;
+    margin: 30px;
+}
+p.text{
+    border: 5px solid orangered;
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
